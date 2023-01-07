@@ -2,7 +2,7 @@
 This Python program will read data from a text file called inventory.txt and will perform different operations to allow users to display a detailed inventory of the company products and to edit, add, delete, and search the contents of this inventory.
 ## Installation
 You will need PyCharm to run this project.\
-Copy the files inventory.py and inventory.yxy to the root file of your new project in PyCharm
+Copy the files inventory.py and inventory.txt to the root file of your new project in PyCharm
 ## Usage
 For the development of this software, one class, 7 functions, and a menu were created. \
 The components will be described below highlighting their purposes.

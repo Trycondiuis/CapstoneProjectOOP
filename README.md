@@ -5,7 +5,7 @@ You will need PyCharm to run this project.\
 Copy the files inventory.py and inventory.yxy to the root file of your new project in PyCharm
 ## Usage
 For the development of this software, one class, 7 functions, and a menu were created. \
-The components will be described below highlighting their purpose.
+The components will be described below highlighting their purposes.
 ### Shoes class
 ```Python
 class Shoes:
@@ -50,7 +50,7 @@ class Shoes:
         """
         return f"{self.country},{self.code},{self.product},{self.cost},{self.quantity}"
 ```
-### Read data function
+### Read data from text file
 ```Python
 def read_shoes_data():
     """
